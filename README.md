@@ -1,9 +1,5 @@
 React-Router: Routing in
 React Apps
-CSIS 3380
-
-Anupama Gupta
-guptaa10@douglascollege.ca
 
 Outline
  Navigation
